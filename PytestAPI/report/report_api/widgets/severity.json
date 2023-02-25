@@ -1,0 +1,21 @@
+[ {
+  "uid" : "8bb50162ad765596",
+  "name" : "下单接口",
+  "time" : {
+    "start" : 1677325460965,
+    "stop" : 1677325460975,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a2549cb7d9c821b",
+  "name" : "搜索商品接口",
+  "time" : {
+    "start" : 1677325460956,
+    "stop" : 1677325460965,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
